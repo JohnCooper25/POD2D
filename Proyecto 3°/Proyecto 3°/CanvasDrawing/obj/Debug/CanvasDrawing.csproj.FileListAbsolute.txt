@@ -1,0 +1,187 @@
+C:\Users\suniv\source\repos\CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\Users\suniv\source\repos\CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\Users\suniv\source\repos\CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\Users\suniv\source\repos\CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\Users\suniv\source\repos\CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\Users\suniv\source\repos\CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\Users\suniv\source\repos\CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\Users\suniv\source\repos\CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\Users\suniv\source\repos\CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\Users\suniv\source\repos\CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\UTalca\Programacion2D_2023-1\20230523CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\UTalca\Programacion2D_2023-1\20230523CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\UTalca\Programacion2D_2023-1\20230523CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\UTalca\Programacion2D_2023-1\20230523CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\UTalca\Programacion2D_2023-1\20230523CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\UTalca\Programacion2D_2023-1\20230523CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\UTalca\Programacion2D_2023-1\20230523CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\UTalca\Programacion2D_2023-1\20230523CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\UTalca\Programacion2D_2023-1\20230523CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\UTalca\Programacion2D_2023-1\20230523CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\Users\MrLBo\OneDrive\Datos adjuntos\Escritorio\20230603CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\Users\MrLBo\OneDrive\Datos adjuntos\Escritorio\20230603CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\Users\MrLBo\OneDrive\Datos adjuntos\Escritorio\20230603CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\Users\MrLBo\OneDrive\Datos adjuntos\Escritorio\20230603CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\Users\MrLBo\OneDrive\Datos adjuntos\Escritorio\20230603CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\Users\MrLBo\OneDrive\Datos adjuntos\Escritorio\20230603CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\Users\MrLBo\OneDrive\Datos adjuntos\Escritorio\20230603CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\Users\MrLBo\OneDrive\Datos adjuntos\Escritorio\20230603CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\Users\MrLBo\OneDrive\Datos adjuntos\Escritorio\20230603CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\Users\MrLBo\OneDrive\Datos adjuntos\Escritorio\20230603CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\Progra2D_2023-1\20230603CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\Progra2D_2023-1\20230603CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\Progra2D_2023-1\20230603CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\Progra2D_2023-1\20230603CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\Progra2D_2023-1\20230603CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\Progra2D_2023-1\20230603CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\Progra2D_2023-1\20230603CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\Progra2D_2023-1\20230603CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\Progra2D_2023-1\20230603CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\Progra2D_2023-1\20230603CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\Progra2D_2023-1\20230606CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\Progra2D_2023-1\20230606CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\Progra2D_2023-1\20230606CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\Progra2D_2023-1\20230606CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\Progra2D_2023-1\20230606CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\Progra2D_2023-1\20230606CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\Progra2D_2023-1\20230606CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\Progra2D_2023-1\20230606CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\Progra2D_2023-1\20230606CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\Progra2D_2023-1\20230606CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\UTalca\Programacion2D_2023-1\20230606_3CanvasDrawing\20230606_3CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\UTalca\Programacion2D_2023-1\20230606_3CanvasDrawing\20230606_3CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\UTalca\Programacion2D_2023-1\20230606_3CanvasDrawing\20230606_3CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\UTalca\Programacion2D_2023-1\20230606_3CanvasDrawing\20230606_3CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\UTalca\Programacion2D_2023-1\20230606_3CanvasDrawing\20230606_3CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\UTalca\Programacion2D_2023-1\20230606_3CanvasDrawing\20230606_3CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\UTalca\Programacion2D_2023-1\20230606_3CanvasDrawing\20230606_3CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\UTalca\Programacion2D_2023-1\20230606_3CanvasDrawing\20230606_3CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\UTalca\Programacion2D_2023-1\20230606_3CanvasDrawing\20230606_3CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\UTalca\Programacion2D_2023-1\20230606_3CanvasDrawing\20230606_3CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\Taller2D_2022-2\20230613CanvasDrawing\20230613CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\Taller2D_2022-2\20230613CanvasDrawing\20230613CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\Taller2D_2022-2\20230613CanvasDrawing\20230613CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\Taller2D_2022-2\20230613CanvasDrawing\20230613CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\Taller2D_2022-2\20230613CanvasDrawing\20230613CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\Taller2D_2022-2\20230613CanvasDrawing\20230613CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\Taller2D_2022-2\20230613CanvasDrawing\20230613CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\Taller2D_2022-2\20230613CanvasDrawing\20230613CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\Taller2D_2022-2\20230613CanvasDrawing\20230613CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\Taller2D_2022-2\20230613CanvasDrawing\20230613CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\UTalca\Programacion2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\UTalca\Programacion2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\UTalca\Programacion2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\UTalca\Programacion2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\UTalca\Programacion2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\UTalca\Programacion2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\UTalca\Programacion2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\UTalca\Programacion2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\UTalca\Programacion2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\UTalca\Programacion2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\Progra2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\Progra2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\Progra2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\Progra2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\Progra2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\Progra2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\Progra2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\Progra2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\Progra2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\Progra2D_2023-1\20230613-2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\Progra2D_2023-1\20230620CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\Progra2D_2023-1\20230620CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\Progra2D_2023-1\20230620CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\Progra2D_2023-1\20230620CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\Progra2D_2023-1\20230620CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\Progra2D_2023-1\20230620CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\Progra2D_2023-1\20230620CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\Progra2D_2023-1\20230620CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\Progra2D_2023-1\20230620CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\Progra2D_2023-1\20230620CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\UTalca\Programacion2D_2023-1\20230620CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\UTalca\Programacion2D_2023-1\20230620CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\UTalca\Programacion2D_2023-1\20230620CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\UTalca\Programacion2D_2023-1\20230620CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\UTalca\Programacion2D_2023-1\20230620CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\UTalca\Programacion2D_2023-1\20230620CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\UTalca\Programacion2D_2023-1\20230620CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\UTalca\Programacion2D_2023-1\20230620CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\UTalca\Programacion2D_2023-1\20230620CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\UTalca\Programacion2D_2023-1\20230620CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\Users\munos\Downloads\20230620_2CanvasDrawing\20230620_2CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\Users\munos\Downloads\20230620_2CanvasDrawing\20230620_2CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\Users\munos\Downloads\20230620_2CanvasDrawing\20230620_2CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\Users\munos\Downloads\20230620_2CanvasDrawing\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\Users\munos\Downloads\20230620_2CanvasDrawing\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\munos\Downloads\20230620_2CanvasDrawing\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\Users\munos\Downloads\20230620_2CanvasDrawing\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\Users\munos\Downloads\20230620_2CanvasDrawing\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\Users\munos\Downloads\20230620_2CanvasDrawing\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\Users\munos\Downloads\20230620_2CanvasDrawing\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\Users\munos\Downloads\20230620_2CanvasDrawing\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\Users\munos\Downloads\MI CODIGO\20230620_2CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\Users\munos\Downloads\MI CODIGO\20230620_2CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\Users\munos\Downloads\MI CODIGO\20230620_2CanvasDrawing\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\Users\munos\Downloads\MI CODIGO\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\Users\munos\Downloads\MI CODIGO\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\munos\Downloads\MI CODIGO\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\Users\munos\Downloads\MI CODIGO\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\Users\munos\Downloads\MI CODIGO\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\Users\munos\Downloads\MI CODIGO\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\Users\munos\Downloads\MI CODIGO\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\Users\munos\Downloads\MI CODIGO\20230620_2CanvasDrawing\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\Talleres 2D\Taller 1 U3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\Talleres 2D\Taller 1 U3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\Talleres 2D\Taller 1 U3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\Talleres 2D\Taller 1 U3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\Talleres 2D\Taller 1 U3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\Talleres 2D\Taller 1 U3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\Talleres 2D\Taller 1 U3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\Talleres 2D\Taller 1 U3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\Talleres 2D\Taller 1 U3\Taller 1 Unidad 3\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\Talleres 2D\Taller 1 U3\Taller 1 Unidad 3\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\Talleres 2D\Taller 1 U3\Taller 1 Unidad 3\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\Users\munos\Downloads\Taller 1 Unidad 3\Taller 1 Unidad 3\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\Users\munos\Downloads\Taller 1 Unidad 3\Taller 1 Unidad 3\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\Users\munos\Downloads\Taller 1 Unidad 3\Taller 1 Unidad 3\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\Users\munos\Downloads\Taller 1 Unidad 3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\Users\munos\Downloads\Taller 1 Unidad 3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\munos\Downloads\Taller 1 Unidad 3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\Users\munos\Downloads\Taller 1 Unidad 3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\Users\munos\Downloads\Taller 1 Unidad 3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\Users\munos\Downloads\Taller 1 Unidad 3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\Users\munos\Downloads\Taller 1 Unidad 3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\Users\munos\Downloads\Taller 1 Unidad 3\Taller 1 Unidad 3\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\Users\munos\Downloads\Proyecto 3°\Proyecto 3°\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\Users\munos\Downloads\Proyecto 3°\Proyecto 3°\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\Users\munos\Downloads\Proyecto 3°\Proyecto 3°\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\Users\munos\Downloads\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\Users\munos\Downloads\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\munos\Downloads\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\Users\munos\Downloads\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\Users\munos\Downloads\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\Users\munos\Downloads\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\Users\munos\Downloads\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\Users\munos\Downloads\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\Proyecto 3°\Proyecto 3°\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\Proyecto 3°\Proyecto 3°\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\Proyecto 3°\Proyecto 3°\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\Users\jluis\Desktop\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
+C:\Users\jluis\Desktop\Universidad\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\U3\Proyecto 3°\Proyecto 3°\CanvasDrawing\bin\Debug\CanvasDrawing.exe.config
+C:\Users\jluis\Desktop\Universidad\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\U3\Proyecto 3°\Proyecto 3°\CanvasDrawing\bin\Debug\CanvasDrawing.exe
+C:\Users\jluis\Desktop\Universidad\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\U3\Proyecto 3°\Proyecto 3°\CanvasDrawing\bin\Debug\CanvasDrawing.pdb
+C:\Users\jluis\Desktop\Universidad\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\U3\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.AssemblyReference.cache
+C:\Users\jluis\Desktop\Universidad\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\U3\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\jluis\Desktop\Universidad\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\U3\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.Form1.resources
+C:\Users\jluis\Desktop\Universidad\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\U3\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.Properties.Resources.resources
+C:\Users\jluis\Desktop\Universidad\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\U3\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.GenerateResource.cache
+C:\Users\jluis\Desktop\Universidad\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\U3\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\Users\jluis\Desktop\Universidad\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\U3\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.exe
+C:\Users\jluis\Desktop\Universidad\2023\UTALCA\SEGUNDO AÑO S1\PROGRAMACION 2D\PROYECTOS\U3\Proyecto 3°\Proyecto 3°\CanvasDrawing\obj\Debug\CanvasDrawing.pdb
